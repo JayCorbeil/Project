@@ -16,7 +16,7 @@ body{
     background-color: rgba(0, 0, 0, 0.85);
     color: white;
     
-    background-image: url("Images/PurpleSpace.jpg");
+    background-image: url("/Images/PurpleSpace.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
