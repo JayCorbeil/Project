@@ -1,0 +1,33 @@
+#snakeboard {
+  /* position: absolute; */
+  /* top: 50%;
+  left: 50%; */
+  /* transform: translate(-50%, -50%); */
+  border: 2px mediumpurple solid;
+  display: inline;
+
+}
+#score {
+  text-align: center;
+  font-size: 140px;
+  color: mediumpurple;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    
+    background-image: url("Images/PurpleSpace.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: black;
+}
+#highScore{
+    text-align: center;
+    font-size: 100px;
+    color: mediumpurple;
+}
+#canvas-container {
+    width: 100%;
+    text-align:center;
+ }
