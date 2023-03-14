@@ -1,8 +1,4 @@
 #snakeboard {
-  /* position: absolute; */
-  /* top: 50%;
-  left: 50%; */
-  /* transform: translate(-50%, -50%); */
   border: 2px mediumpurple solid;
   display: inline;
 
@@ -16,7 +12,7 @@ body{
     background-color: rgba(0, 0, 0, 0.85);
     color: white;
     
-    background-image: url("/Images/PurpleSpace.jpg");
+    background-image: url("https://wallpaper.dog/large/10753320.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
